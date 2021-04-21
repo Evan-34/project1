@@ -1,4 +1,0 @@
-
-L1: add  x5,x5,x5
-    addi x6,x6,-1
-    beq  x6,x0,L1 
