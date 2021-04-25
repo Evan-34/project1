@@ -1,7 +1,7 @@
 # Project 1: Implementing RISC-V Assembler
 使用python寫的簡單版RISC-V Assembler
 ## rule
-1. 只能夠使用I,R,S type的指令，若為beq指令等等則顯示none
+1. 只能夠使用I,R,S type的指令，若為其它指令則顯示none
 2. I type指令只能使用decimal
 3. code必須存在txt 
 4. 若全部指令都執行完成時，則會顯示done
